@@ -5,10 +5,12 @@
 ##### Heading 5
 ###### Heading 6
 
-This is a paragraph, etc, etc. *Lorem ipsum* dolor sit amet, consectetur _adipisicing elit_, sed do ~eiusmod tempor~ incididunt ut labore et dolore magna aliqua.
+This is a paragraph, etc, etc. **Lorem ipsum bold** dolor sit amet, consectetur _adipisicing elit italic_, sed do ~eiusmod tempor~ incididunt ut *also italic* et dolore magna aliqua.
 
 This will create a "horizontal rule"
+
 ---
+
 
 - Bulleted list
 - Another item
